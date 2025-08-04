@@ -34,6 +34,11 @@ This project uses a subset of 10 classes from the public **Food-101** dataset, h
 
 The data is expected to be organized into `train`, `validation`, and `test` directories, with each directory containing subfolders for each of the 10 classes.
 
+Let´s do a initial Data Exploration:
+
+<img width="2489" height="2244" alt="image" src="https://github.com/user-attachments/assets/a538a1b5-5ac6-4e8d-a544-de8209dbe66b" />
+
+
 ## Methodology
 
 The approach follows standard best practices for training a deep learning model for computer vision:
