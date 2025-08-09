@@ -78,7 +78,12 @@ To run this project yourself, follow these steps:
 
 <img width="678" height="393" alt="image" src="https://github.com/user-attachments/assets/c5c0b7f7-11d0-4901-9a22-dbd4d192e917" />
 
-<img width="748" height="383" alt="image" src="https://github.com/user-attachments/assets/c5a2d308-194f-4f3f-8a28-e3a6be9e2f49" />
+<img width="442" height="405" alt="image" src="https://github.com/user-attachments/assets/ce3912c1-2942-42fc-b95e-2fbff1ce9e44" />
+
+<img width="543" height="422" alt="image" src="https://github.com/user-attachments/assets/7602f1cc-1afc-489d-8d0e-055f2887f3b6" />
+
+<img width="763" height="407" alt="image" src="https://github.com/user-attachments/assets/5fce0021-14ba-4b4f-9eb8-69c70aa37553" />
+
 
 After a series of hyperparameter tuning experiments, our best model achieved the following performance on the held-out test set:
 
