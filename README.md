@@ -89,6 +89,12 @@ For our second training architecture, we selected ResNet-18 to enhance model per
 
 <img width="543" height="422" alt="image" src="https://github.com/user-attachments/assets/7602f1cc-1afc-489d-8d0e-055f2887f3b6" />
 
+## Conclusion
+
+The project started with a baseline model that severely overfit the data, peaking at only 50% accuracy. An initial fix using regularization stabilized the model but did not improve performance.
+
+The major breakthrough came from abandoning the simple model and using transfer learning combined with systematic hyperparameter tuning. This new approach dramatically increased performance to 72.8% accuracy. The future goal is to further refine this model to reach 80-90% accuracy.
+
 <img width="763" height="407" alt="image" src="https://github.com/user-attachments/assets/5fce0021-14ba-4b4f-9eb8-69c70aa37553" />
 
 
