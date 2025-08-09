@@ -75,7 +75,9 @@ To run this project yourself, follow these steps:
     ```
 
 ## Results
-Training architecture 1:
+Training Architecture 1: Baseline Convolutional Neural Network (CNN)
+
+Our initial architecture was a custom-built Convolutional Neural Network (CNN). This model was designed to serve as a fundamental baseline to establish benchmark performance on our dataset. The architecture consisted of a standard sequence of convolutional layers, ReLU activations, and max-pooling layers to extract features, followed by fully-connected layers for classification.
 
 <img width="678" height="393" alt="image" src="https://github.com/user-attachments/assets/c5c0b7f7-11d0-4901-9a22-dbd4d192e917" />
 
