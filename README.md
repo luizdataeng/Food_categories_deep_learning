@@ -80,7 +80,8 @@ Training architecture 1:
 <img width="678" height="393" alt="image" src="https://github.com/user-attachments/assets/c5c0b7f7-11d0-4901-9a22-dbd4d192e917" />
 
 Training architecture 2:
-The decision to change architecture is for improving overall performance. ResNet18 is well-known model architecture.
+For our second training architecture, we selected ResNet-18 to enhance model performance. This well-established convolutional neural network (CNN) utilizes residual connections to enable effective training of deeper models. This deeper architecture allows for the extraction of more complex features from the data, which is expected to lead to a significant improvement in classification accuracy.
+
 <img width="442" height="405" alt="image" src="https://github.com/user-attachments/assets/ce3912c1-2942-42fc-b95e-2fbff1ce9e44" />
 
 
