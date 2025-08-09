@@ -76,13 +76,11 @@ To run this project yourself, follow these steps:
 
 ## Results
 
+<img width="678" height="393" alt="image" src="https://github.com/user-attachments/assets/c5c0b7f7-11d0-4901-9a22-dbd4d192e917" />
+
+<img width="748" height="383" alt="image" src="https://github.com/user-attachments/assets/c5a2d308-194f-4f3f-8a28-e3a6be9e2f49" />
+
 After a series of hyperparameter tuning experiments, our best model achieved the following performance on the held-out test set:
-
-* **Final Test Accuracy**: **XX.X%** *(<-- Fill this in with your final result!)*
-
-#### Confusion Matrix
-
-*(<-- Insert the image of your confusion matrix here. This is a great way to visually showcase your results.)*
 
 ## Future Work
 
