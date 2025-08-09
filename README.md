@@ -76,6 +76,7 @@ To run this project yourself, follow these steps:
 
 ## Results
 Training architecture 1:
+
 <img width="678" height="393" alt="image" src="https://github.com/user-attachments/assets/c5c0b7f7-11d0-4901-9a22-dbd4d192e917" />
 
 Training architecture 2:
